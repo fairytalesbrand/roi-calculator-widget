@@ -1,5 +1,5 @@
 <p align="center">
-<i class="fa fa-calculator" style="font-size:2.8em;color:#a27eab"></i>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Accessories-calculator.svg" alt="ROI Calculator Logo">
 </p>
 
 <h1 align="center">ROI Calculator Widget </h1>
